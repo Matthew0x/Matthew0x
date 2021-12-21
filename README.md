@@ -2,9 +2,9 @@
 ## I am a bit of a:
 
 - **Programmer**
-- **Sysadmin**
+- **Sysadmin/DevOps**
 - **Front-End Developer**
-- **3D Designer**
+- **3D Designer/Electronics Tinkerer**
 
 ## In my free time I:
    - write mini interactive books called journals
