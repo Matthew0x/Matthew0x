@@ -2,9 +2,8 @@
 ### Find me interesting? Visit my website for CV
 ## I am a bit of a:
 
-- **Programmer**
+- **Backend/Front-End**
 - **Sysadmin/DevOps**
-- **Front-End Developer**
 - **3D Designer/Electronics Tinkerer**
 
 ## In my free time I:
