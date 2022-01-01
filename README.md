@@ -7,7 +7,6 @@
 - **3D Designer/Electronics Tinkerer**
 
 ## In my free time I:
-   - write mini interactive books called journals
    - try finding new cool projects to work with
    - fix my life problems by drinking tea
 ## 
