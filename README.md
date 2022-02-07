@@ -1,5 +1,8 @@
 # Hello, my name is Matthew. 
-### Find me interesting? Visit my website for short resume [click here](https:amatthew.xyz)
+### Find me interesting? I built a few websites.
+This is my main portal: [click here](https:amatthew.xyz)
+
+You can find my resume website there (not updated yet). I plan on publishing free books in LaTeX, so GitHub Pages is gonna roll.
 
 ## In my free time I:
    - try finding new cool projects to work with
