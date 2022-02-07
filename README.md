@@ -1,8 +1,8 @@
 # Hello, my name is Matthew. 
 ### Find me interesting? I built a few websites.
-This is my main portal: [click here](https:amatthew.xyz)
+This is my main portal: [click here](https://amatthew.xyz) (yeah, it's not posted yet. The domain and code is going to appear in the nearest days)
 
-You can find my resume website there (not updated yet). I plan on publishing free books in LaTeX, so GitHub Pages is gonna roll.
+You can find my resume website there (not updated yet). I plan on publishing free books in LaTeX, so GitHub/GitLab Pages is gonna roll too.
 
 ## In my free time I:
    - try finding new cool projects to work with
@@ -10,6 +10,9 @@ You can find my resume website there (not updated yet). I plan on publishing fre
    - fix my life problems by drinking tea
 
 ### My latest focus is on Python ML/IoT and DevOps
+
+I love simple useful projects, without tons of bloatware. I catch myself on over-doing some things, then I usually scrap them and make up again.
+Either way, I'm more of a simple guy, no hardcore code around here.
 
 ## 
 [![](https://raw.githubusercontent.com/Matthew0x/Matthew0x/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
