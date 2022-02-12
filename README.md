@@ -1,8 +1,8 @@
 # Hello, my name is Matthew. 
 ### Find me interesting? I built a few websites.
-This is my main portal: [click here](https://amatthew.xyz) (yeah, it's not posted yet. The domain and code is going to appear in the nearest days)
+This is my main portal: [click here](https://amatthew.xyz)
 
-You can find my resume website there (not updated yet). I plan on publishing free books in LaTeX, so GitHub/GitLab Pages is gonna roll too.
+You can find my resume website there. I plan on publishing free books in LaTeX, so GitHub/GitLab Pages is gonna roll too.
 
 ## In my free time I:
    - try finding new cool projects to work with
