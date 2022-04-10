@@ -1,8 +1,4 @@
 # Hello, my name is Matthew. 
-### Find me interesting? I built a few websites.
-This is my main portal: [click here](https://amatthew.xyz)
-
-You can find my resume website there. I plan on publishing free books in LaTeX, so GitHub/GitLab Pages is gonna roll too.
 
 ## In my free time I:
    - try finding new cool projects to work with
@@ -11,8 +7,8 @@ You can find my resume website there. I plan on publishing free books in LaTeX, 
 
 ### My latest focus is on Python ML/IoT and DevOps
 
-I love simple useful projects, without tons of bloatware. I catch myself on over-doing some things, then I usually scrap them and make up again.
-Either way, I'm more of a simple guy, no hardcore code around here.
+I love simple useful projects, without tons of bloatware. I catch myself on over-doing some things, then I usually scrap them and start up again.
+Either way, I'm more of a simple guy, nothing super interesting around here I guess.
 
 More luck than brains, that's because my brain doesn't respond anymore from caffeine abuse.
 
