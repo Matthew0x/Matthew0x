@@ -6,6 +6,7 @@
    - fix my life problems by drinking tea
 
 ### My latest focus is on Python ML/IoT and DevOps
+**edit: I actually lack time to learn about ML, because of Azure...**
 
 I love simple useful projects, without tons of bloatware. I catch myself on over-doing some things, then I usually scrap them and start up again.
 Either way, I'm more of a simple guy, nothing super interesting around here I guess.
